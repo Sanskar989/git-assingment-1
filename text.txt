@@ -1,8 +1,5 @@
-GIT IS VERSION CONTROL SYSTEM
-IT HELPS TO MANAGE ALL CODE
-GIT MAKE THINGS EASY ACCESS
-GIT IS WIDELY USED IN SOFTWARE INDUSTRY
-GIT IS USED FOR ALL CLOUD INFRASTRUCTURE
-MINFY IS GOOD COMPANY FOR CLOUD
-CONNECT GIT TO GITHUB
-
+Line 1: Git is a version control system.
+Line 2: It helps manage code history.
+Line 3: Git supports branching and merging.
+Line 4: Commits represent snapshots of code.
+Line 5: Git is widely used in the software industry.
