@@ -6,7 +6,8 @@ Learn basic Git operations such as init, add, commit, log, and diff.
  📁 Commit History
 *(Insert screenshot of `git log` here)*
 
-![image](https://github.com/user-attachments/assets/ede878cb-2e0a-47c7-92d8-b80ede0de818)
+![image](https://github.com/user-attachments/assets/adeeeb00-3702-48f3-aa82-476793fe44e7)
+
 
  🧾 Commit Explanations
 
